@@ -21,16 +21,16 @@ hse_hw3_chromhmm
 #### RefSeq
 | TES | TSS |
 | ------------- | ------------- |
-| ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/HUVEC_10_RefSeqTES_neighborhood.png) | ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/HUVEC_10_RefSeqTSS_neighborhood.png) |
+| ![](https://github.com/Epifanov-Evgeny/hse_hw3_chromhmm/blob/main/data/res/HUVEC_10_RefSeqTES_neighborhood.png) | ![](https://github.com/Epifanov-Evgeny/hse_hw3_chromhmm/blob/main/data/res/HUVEC_10_RefSeqTSS_neighborhood.png) |
 
 | Emissions | Overlap | Transitions |
 | ------------- | ------------- | ------------- |
-| ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/emissions_10.png) | ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/HUVEC_10_overlap.png) | ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/transitions_10.png) | 
+| ![](https://github.com/Epifanov-Evgeny/hse_hw3_chromhmm/blob/main/data/res/emissions_10.png) | ![](https://github.com/Epifanov-Evgeny/hse_hw3_chromhmm/blob/main/data/res/HUVEC_10_overlap.png) | ![](https://github.com/Epifanov-Evgeny/hse_hw3_chromhmm/blob/main/data/res/transitions_10.png) | 
 
-![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/huvec_1.png)
-![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/huvec_2.png)
-![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/huvec_3.png)
-![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/huvec_4.png)
+![](https://github.com/Epifanov-Evgeny/hse_hw3_chromhmm/blob/main/data/huvec_1.png)
+![](https://github.com/Epifanov-Evgeny/hse_hw3_chromhmm/blob/main/data/huvec_2.png)
+![](https://github.com/Epifanov-Evgeny/hse_hw3_chromhmm/blob/main/data/huvec_3.png)
+![](https://github.com/Epifanov-Evgeny/hse_hw3_chromhmm/blob/main/data/huvec_4.png)
 
 #### Вывод из тепловой карты - больше всего в геноме 2 состояния, чуть меньше 1 и 3. CpG островки наблюдаются в состоянии 10 и 9, 9 и 10 скорее всего промоторы, когда 10 слабый промотор. Экзоны сильно заметны в 9, 10 и 4. Ядерные ламины ассоциированы с состояниями 1 и 2. 2 больше всего в геноме, нет меток - гетерохроматин. 6, 7, 8 похожи на энхансеры, в то время как 3 и 4 собственно относятся к генам и транскрипции, 5 плохо транскрибируемое состояние, 1 репрессируемое. 
 Визуально кажется, что метки соотносятся с состояниями примерно так:
@@ -55,4 +55,4 @@ hse_hw3_chromhmm
 
 #### Бонусное задание (.bed файл) в папке диска [тут](https://drive.google.com/drive/folders/1CTsk-VljwhgLw3IXwj_QzOC4PDjT0YG0?usp=sharing), т.к. не влезло на гитхаб, R код в папке src
 #### Результат бонусного задания
-![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/huvec_5.png)
+![](https://github.com/Epifanov-Evgeny/hse_hw3_chromhmm/blob/main/data/huvec_5.png)
