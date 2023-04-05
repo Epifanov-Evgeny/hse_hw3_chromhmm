@@ -1,7 +1,7 @@
 # hse_hw3_chromhmm
 hse_hw3_chromhmm
 ### Была выбрана клеточная линия HUVEC
-#### [Ссылка](https://colab.research.google.com/drive/1OUCMrBFnCJhZeA_6v4YQIFAGAzmUdsg8?usp=sharing) на колаб
+#### [Ссылка](https://colab.research.google.com/drive/1TulX6aTdeze_HNxsO4YJvFXe07broJkw?usp=sharing) на колаб
 #### Контрольный [файл](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHuvecControlStdAlnRep1.bam) - ControlStdAlnRep1.bam
 | Гистоновая метка | Файл | Ссылка на файл |
 | ------------- | ------------- | ------------- |
